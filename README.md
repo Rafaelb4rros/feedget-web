@@ -26,18 +26,27 @@ Project Dependencies:
 - [ ] Refactor the components to abstraction.
 - [ ] Feedbacks list
 
-## 📥 Instalação e execução
+## 📥 How to run
 
-Faça um clone desse repositório e acesse o diretório.
-
-PS: _Adicione o host do servidor na variável VITE_API_HOST no arquivo env.example_
-
-PS 2: _Renomei o arquivo env.example para env.local_
+First, clone the repo and go to project directory.
 
 ```bash
-# Instalando as dependências
+# Cloning the repo
+$ git clone https://github.com/Rafaelb4rros/feedget-web.git
+
+# Access the project directory
+$ cd feedget-web
+
+```
+
+PS: _Add the server host in VITE_API_HOST variable on .env.example file_
+
+PS 2: _Rename the env.example file to env.local_
+
+```bash
+# In the project directory, install the dependencies
 $ npm install
 
-# Executanto aplicação
+# Run the APP
 $ npm run dev
 ```
