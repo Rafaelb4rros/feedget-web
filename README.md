@@ -16,7 +16,7 @@ Project Dependencies:
 
 - [Vite](https://vitejs.dev/)
 - [ReactJS](https://reactjs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 - [Headlessui](https://headlessui.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
