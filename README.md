@@ -6,7 +6,7 @@
   <img src=".github/preview.png" width="100%" />
 </p>
 
-## 💻 Projeto
+## 💻 Project
 
 This project has builded during **NLW Return Event**
 The app prototype was created by [**Ilana Mallak**](https://www.instagram.com/ilanamallak/), [Click here](https://www.figma.com/file/4OgcQfKrfG6zjASK6pKg1a?node-id=10%3A1637) to open the
