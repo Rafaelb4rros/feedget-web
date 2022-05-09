@@ -12,6 +12,7 @@ function FeedbackTypeStep({ onFeedbackTypeChange }: Props) {
         <span className="text-xl leading-6">Deixe seu feedback</span>
         <CloseButton />
       </header>
+
       <div className="flex flex-wrap gap-2 py-8 w-full">
         {Object.entries(feedbackTypes).map(([key, { title, image }]) => (
           <button
