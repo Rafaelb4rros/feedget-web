@@ -28,7 +28,7 @@ Project Dependencies:
 
 ## 📥 How to run
 
-First, clone the repo and go to project directory.
+First, lets clone the repo:
 
 ```bash
 # Cloning the repo
